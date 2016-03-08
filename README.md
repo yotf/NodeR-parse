@@ -1,7 +1,7 @@
 # NodeR-parse
 
 
-Usage:
+```Usage:
    parse_nodeR.py [-g GPS_FILE] -l LOG_FILE -s START_TIME -e END_TIME -n NODE_NAME -f SF -a ANTENNA
 
 Options:
@@ -13,3 +13,4 @@ Options:
    -n NODE_NAME  the name of the node we are interested in (beta,gamma...)
    -f SF         the spreading factor we want to observe
    -a ANTENNA    which antenna (cesson,janvier,tb)
+   ```
