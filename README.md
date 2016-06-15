@@ -1,3 +1,12 @@
+#Overview
+This code was used for analyzing measurements of a LoRa network deployed in Rennes using Kerlink LoRa IoT stations and custom-made LoRa motes. 
+The network deployment, the measurement and the results is described in more detail in https://hal-institut-mines-telecom.archives-ouvertes.fr/hal-01331966/document
+
+Some of the data that was gathered and parsed by the parse_nodeR.py was visualized using Google maps and is available on the following link https://www.google.com/maps/d/viewer?mid=1_-30lffhl8i49GLAaq-KUkrWtE8 (note that a Google account is needed to access and be able to interact with it fully. Sorry to all affected ) 
+
+All data will soon be available also on github. 
+
+
 # NodeR-parse
 
 
@@ -14,3 +23,5 @@ Options:
    -f SF         the spreading factor we want to observe
    -a ANTENNA    which antenna (cesson,janvier,tb)
    ```
+   
+
